@@ -1,0 +1,151 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    overflow: hidden;
+}
+
+.zz {
+    color: rgb(255, 255, 255);
+    background-color: #A9A9A9;
+    background-color: rgb(100, 30, 40 / 80%);
+
+    background-size: cover;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
+    margin-bottom: 13px;
+    font-weight: bold;
+    padding: 20px 0 60px 0;
+    font-size: large;
+    text-align: center;
+    size: 50em;
+    border-width: 4px;
+    border-top-color: #A9A9A9;
+    border-bottom-color: #A9A9A9;
+    border-right-color: #A9A9A9;
+    border-left-color: #A9A9A9;
+    border-style: solid;
+    display: inline-block;
+    width: 1273px;
+    height: 3px;
+    letter-spacing: 3px;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    font-size: 30px;
+}
+
+.xx {
+    text-align: center;
+    background-position: center;
+    margin-top: -13px;
+    margin-left: 300px;
+    margin-bottom: 1px;
+    margin-right: 0px;
+    background-size: 4px 4px;
+    background-size: cover;
+    padding: 10px 1px 10px 1px;
+    color: rgb(255, 255, 255);
+    background-color: #808080;
+    font-size: large;
+    border-top-width: 1px;
+    border-top-color: #808080;
+    border-bottom-color: #808080;
+    border-right-color: #808080;
+    border-left-color: #808080;
+    border-style: solid;
+    display: inline-block;
+    width: 630px;
+    height: 20px;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+
+
+}
+
+.safha1 {
+    text-align: center;
+    position: auto;
+    background-color: #DCDCDC;
+    border-style: solid;
+    border-radius: 15px 20px 30px;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+    margin-left: 6px;
+
+    display: inline-block;
+    width: 215px;
+    height: 31px;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+
+}
+
+.link1 {
+    background-color: #DCDCDC;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border: solid;
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px 10px 10px;
+    display: inline-block;
+    width: 130px;
+    height: 23px;
+    padding-left: 22px;
+
+}
+
+.link2 {
+    background-color: #DCDCDC;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border-radius: 10px 10px 10px;
+    border: solid;
+    border-color: rgb(0, 0, 0);
+    display: inline-block;
+    width: 130px;
+    height: 23px;
+    padding-left: 22px;
+
+}
+
+.sub1 {
+    background-color: transparent;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    color: #c4c2c0;
+    font-size: 80px;
+    margin-left: 560px;
+    border: #f28705;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+.emailandpass {
+    margin-left: 300px;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: large;
+}
+
+.emailandpass .email1 {
+    border: none;
+    background-color: #d8d6d3;
+    border-radius: 30px;
+}
+
+.emailandpass .pass1 {
+    border: none;
+    background-color: #d8d6d3;
+    border-radius: 30px;
+}
+
+.input1 {
+    border: none;
+    background-color: #d8d6d3;
+    border-radius: 30px;
+}
+
+.input2 {
+    border: none;
+    background-color: #d8d6d3;
+    border-radius: 30px;
+}
